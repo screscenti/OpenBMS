@@ -1,0 +1,66 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GBL
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GBO
+Docs/datasheets/LTC3638 step down 140v.pdf
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GBS
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GML
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GTL
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GTP
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.GTS
+Hardware/Cell manager board/Rev1_sot323/Gerbers/OSBMS Balancer Rev1 SEEED order/OSBMS Balancer Rev1.TXT
+Hardware/Cell manager board/Rev1_sot323/Gerbers/Stencil files/OSBMS Balancer Rev1_sot323-Edge_Cuts.gbr
+Hardware/Cell manager board/Rev1_sot323/Gerbers/Stencil files/OSBMS Balancer Rev1_sot323-F_Paste.gbr
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GBL
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GBO
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GBS
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GML
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GTL
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GTO
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.GTS
+Hardware/MicroMaster/Rev1_sot323/Gerbers/OSBMS MicroMaster SEEED order/OSBMS MicroMaster.TXT
+Docs/datasheets/ata6870 code examples doc9180.pdf
+Docs/datasheets/ATMega328.pdf
+Docs/datasheets/broken wire detection doc9244.pdf

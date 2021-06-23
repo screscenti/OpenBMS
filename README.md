@@ -75,13 +75,6 @@ Software Goals
 * Cell resistance estimate - use amperage draw and cell voltages to estimate cell resistances.
 * Coulomb Counting for entire battery pack as well as cumulative coulumbs in/out for battery wear estimation
 
-  
-  
-Photos
-===========
-![board](https://github.com/Teslafly/OpenBMS/blob/master/Docs/photos/Open%20source%20BMS.jpg?raw=true)
-![schematic] (https://raw.githubusercontent.com/Teslafly/OpenBMS/master/Docs/photos/Open%20source%20BMS.png)
-
 
 TODO:
 ===============

@@ -1,6 +1,6 @@
 Intro
 ==========
-* This project aims to create an open source, scalable Battery management system for use in just about anything with more than 4 lithium batteries. (and currently up to 96 cells without a second master board)
+* This project aims to create an open source, scalable Battery management system.
 * It aims to be as open source as possible so ideally all software should be free and unlimited. All PCB designs are done in KiCad (Using Fairly recent dev builds through Kicad Winbuilder) and all microcontroller programming is done in Arduino.
 
 You can find a discussion thread for this project here on the Endless Sphere fourm: http://endless-sphere.com/forums/viewtopic.php?f=14&t=63863

@@ -3,7 +3,6 @@ Intro
 * This project aims to create an open source, scalable Battery management system.
 * It aims to be as open source as possible so ideally all software should be free and unlimited. All PCB designs are done in KiCad (Using Fairly recent dev builds through Kicad Winbuilder) and all microcontroller programming is done in Arduino.
 
-You can find a discussion thread for this project here on the Endless Sphere fourm: http://endless-sphere.com/forums/viewtopic.php?f=14&t=63863
 Goals
 ==========
 * Open source - It seems that almost all gms systems on the market are closed down these days. we want to be able to add whatever features we please as the EV world gets ever more integrated and complex
